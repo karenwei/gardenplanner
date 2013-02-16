@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  beans: MyString
+  onion: MyString
+  potato: MyString
+  chive: MyString
+  tomato: MyString
+  dill: MyString
+
+two:
+  beans: MyString
+  onion: MyString
+  potato: MyString
+  chive: MyString
+  tomato: MyString
+  dill: MyString
